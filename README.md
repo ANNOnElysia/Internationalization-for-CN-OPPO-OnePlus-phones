@@ -1,4 +1,4 @@
-# Internationalization-for-CN-OPPO-OnePlus-phones
+# Enable Google Services (GMS) & Native Android UI/Features for CN OPPO/OnePlus Phones
 This repository aims to achieve the **internationalization and debloating** of certain features on OPPO/OnePlus devices purchased in the CN region.
 
 ---
