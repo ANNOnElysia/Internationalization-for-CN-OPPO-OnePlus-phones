@@ -25,6 +25,8 @@ Go to **Apps settings** and Show system apps by tapping on the three dots on the
 
 Simply click Disable and enter your lock screen password (If required) to avoid launching the original Chinese Global search from anywhere
 
+Download the Google Play version of [Global search](https://play.google.com/store/apps/details?id=com.oppo.quicksearchbox&pcampaignid=web_share) as a trigger for Google Search
+
 You can set using Google Search (instead of using Global Search) while swiping down in home screen with following settings
 
 ​	 *Home screen, Lock screen & style --> Home screen settings --> Swipe down on Home screen*
@@ -74,3 +76,4 @@ then choose Wallet(Google) or any other wallet apps you prefer
 Download Gboard from a trusted Apk file provider or [Google Play](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&pcampaignid=web_share) 
 
 Follow the instructions in the Gboard app to change t Gboard
+
