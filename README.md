@@ -26,7 +26,7 @@ Go to *System & update --> Developer Options*, scroll down and Disable permissio
 
 
 
-## 1. Change  The  Default  Global  Search  to  Google  Search
+## 3. Change  The  Default  Global  Search  to  Google  Search
 
 You need to enable Google Settings first before using any Google components on your phone in the following way
 
@@ -48,7 +48,7 @@ Toggle it to Global search, don't mind, It won't open a Global Search windows si
 
 
 
-## 2. Enable  Gemini  as  The  Default  Voice  Assistant
+## 4. Enable  Gemini  as  The  Default  Voice  Assistant
 
 *Disable Breeno, Breeno memory and Breeno Touch in AI settings if you like, this step is not necessary.*
 
@@ -62,7 +62,7 @@ Open your navigation gesture app, grant the required permissions, select a gestu
 
 
 
-## 3. Make  the  Quick  Glance  Cleaner
+## 5. Make  the  Quick  Glance  Cleaner
 
 Swipe left on your Home screen and tap your **profile picture** on the upper left,tap the **Settings** button on the upper right corner
 
