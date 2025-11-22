@@ -1,14 +1,30 @@
 # Enable Google Services (GMS) & Native Android UI/Features for CN OPPO/OnePlus Phones
+
 This repository aims to achieve the **internationalization and debloating** of certain features on OPPO/OnePlus devices purchased in the CN region.
 
 ---
 
 **This tutorial is tested on OnePlus 15 and verified useful, there might be nuances between different models or system versions, check before proceed.**
 
-
-
-
 ---
+
+
+
+## 1.Enable Stock Android APK Installer Stock Android Notification  Style
+
+Download the Android CTS tools from [here](https://source.android.com/docs/compatibility/cts/downloads), install and open it once, it will exit automatically with a warnining
+
+Don't mind that warning and restart your phone, you can see the apk installer has been set to the Android default
+
+
+
+## 2. Enable Other Stock Android Appearance
+
+Go to *Settings --> About device --> Version* and click *Version number* for a few times, a window will appear and ask you to input password. You'll have the Developer mode available after that.
+
+Go to *System & update --> Developer Options*, scroll down and Disable permission monitoring
+
+
 
 ## 1. Change  The  Default  Global  Search  to  Google  Search
 
